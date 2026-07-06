@@ -4,7 +4,7 @@ uploads/
 .git
 .DS_Store
 
-amblyopia_model.keras
+*.keras
 app_backup.py
 templates_backup/
-static_backup/amblyopia_model.keras
+static_backup/
