@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+uploads/
+.git
+.DS_Store
+
+amblyopia_model.keras
+app_backup.py
+templates_backup/
+static_backup/
