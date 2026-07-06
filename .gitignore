@@ -7,4 +7,4 @@ uploads/
 amblyopia_model.keras
 app_backup.py
 templates_backup/
-static_backup/
+static_backup/amblyopia_model.keras
